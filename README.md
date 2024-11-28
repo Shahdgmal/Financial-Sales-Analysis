@@ -29,7 +29,7 @@ Year:The year in which the sale occurred.
 
 
 
-DashBoard Summary:
+DashBoard In Looker Summary:
 
 ✅ Total Sales: $118.7M, achieving 98.9% of the target
 
