@@ -1,49 +1,45 @@
-The data Set contain sales data:
-Product :Name of Product
+# Financial Dashboard Analysis Report In LOOKER
 
-Discount Band:The category of discount applied to a sale (e.g., High, Medium, Low, or None).
+## Project Objective
+- This analysis aims to evaluate sales performance , identify top-performing segments and markets, optimize pricing/discount strategies, and uncover seasonal trends to improve decision-making.
+- The goal is to increase profitability and revenue through data-driven strategies.
 
-Units Sold:The quantity of items sold.
+## DataSet Used 
+- <a href="
+  
+##Dashboard
+- <a href="
+## Key Metrics & KPIS
+### Financial Performance
+-Total Sales: $118.7M (98.9% of target)
+- Gross Profit: $16.9M (14.2% margin)
+- COGS: $101.8M (85.8% of sales)
+- Discounts: $9.2M (7.7% of sales)
 
-Manufacturing Price:The cost incurred to produce one unit of the item.
+### Performance Against Targets
+- Sales achieved 98.9% of target
+- COGS maintained at 1.8% variance
 
-Sale Price	:The price at which the product is sold to customers.
+### Segment Analysis Sales Distribution
+- Enterprise: 21.1% ($25M )
+- Government: 17.6% ($20.9M )
+- Midmarket: 21% ($24.9M )
+- Small Business: 19.8% ($23.5M )
+- Channel Partners: 20.5% ($24.3M est.)
 
-Gross Sales :The total revenue generated before any discounts
+### Geographic Performance
+- Top Markets :United States of America , Canada , France, Germany , Mexico
 
-Discounts:The total monetary value of discounts applied.
-
-Sales	:The revenue after deducting discounts
-
-COGS:The total cost of producing the items sold
-
-Profit:The earnings after subtracting COGS from Sales
-
-Date	:The specific date of the sale.
-
-Month Number:The numerical representation of the month (e.g., January = 1, February = 2).
-
-Month Name:The name of the month (e.g., January, February).
-
-Year:The year in which the sale occurred.
+### Discount Strategy Analysis
+- High Discounts: 9.6% of transactions
+- Medium Discounts: 32.6%
+- Low Discounts: 57.8%
+- None: Not quantified
 
 
+## Conclusion
+- The sales organization is performing near targets (98.9%) with healthy segment diversification. Primary opportunities exist in margin improvement through COGS reduction and strategic discount management. The balanced geographic and segment distribution provides multiple levers for growth optimization in coming quarters.
 
-DashBoard In Looker Summary:
-
-✅ Total Sales: $118.7M, achieving 98.9% of the target
-
-✅ Profit: $16.9M, with detailed insights into cost trends
-
-✅ Discount Analysis: Distribution by discount bands (High, Medium, Low, None)
-
-✅ Regional Sales: Sales by country including USA, Canada, and France
-
-✅ Segment Performance: Comparing segments like Enterprise, Midmarket, and Small Business
-
-✅ Monthly Trends: Sales trends across the year
-
-💡 With filters for year comparison (2013 and 2014), this dashboard allows for flexible and dynamic data exploration, ensuring valuable insights for decision-making.
 
 
 
