@@ -12,7 +12,7 @@
 
 ## Key Metrics & KPIS
 ### Financial Performance
--Total Sales: $118.7M (98.9% of target)
+- Total Sales: $118.7M (98.9% of target)
 - Gross Profit: $16.9M (14.2% margin)
 - COGS: $101.8M (85.8% of sales)
 - Discounts: $9.2M (7.7% of sales)
