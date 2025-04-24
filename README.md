@@ -7,7 +7,7 @@
 ## DataSet Used 
 - <a href="https://github.com/Shahdgmal/Financial-Sales-Analysis/blob/main/Financial%20Sample.xlsx">DataSet</a>
   
-##Dashboard
+## Dashboard
 - <a href="https://github.com/Shahdgmal/Financial-Sales-Analysis/blob/main/Sales_Dashboard.pdf>DashBoard</a>
 
 ## Key Metrics & KPIS
