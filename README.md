@@ -8,7 +8,8 @@
 - <a href="
   
 ##Dashboard
-- <a href="
+- <a href="https://github.com/Shahdgmal/Financial-Sales-Analysis/blob/main/Sales_Dashboard.pdf>DashBoard</a>
+
 ## Key Metrics & KPIS
 ### Financial Performance
 -Total Sales: $118.7M (98.9% of target)
