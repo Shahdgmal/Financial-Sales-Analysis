@@ -5,7 +5,7 @@
 - The goal is to increase profitability and revenue through data-driven strategies.
 
 ## DataSet Used 
-- <a href="
+- <a href="https://github.com/Shahdgmal/Financial-Sales-Analysis/blob/main/Financial%20Sample.xlsx">DataSet</a>
   
 ##Dashboard
 - <a href="https://github.com/Shahdgmal/Financial-Sales-Analysis/blob/main/Sales_Dashboard.pdf>DashBoard</a>
